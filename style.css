@@ -21,6 +21,24 @@ div.a {
  
  }
  
+ div.d{
+   color: blue; 
+   font-size:20px;
+   margin-left: 35%;
+   font-weight: bold;
+
+}
+.left {
+   float: left;
+   margin: 0 15px 15px 0;
+}
+
+.right {
+
+   float: right;
+   margin: 0 20px 20px 0;
+}
+
  ul.c {
     margin-left: 35%;
     margin-right: 35;
