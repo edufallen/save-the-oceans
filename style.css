@@ -1,0 +1,32 @@
+body {
+   font-family: 'Comfortaa', cursive;
+       margin-left: 20%;
+       margin-right: 20%;
+       background-color: lightblue;
+  
+  }
+div.a {
+    color:rgb(54, 107, 74); 
+    font-size:20px;
+    text-align: center;
+    font-weight: bold;
+ 
+ }
+ 
+ div.b{
+    color: blue; 
+    font-size:20px;
+    text-align: center;
+    font-weight: bold;
+ 
+ }
+ 
+ ul.c {
+    margin-left: 35%;
+    margin-right: 35;
+ }
+
+ p {
+   font-size: 15px;
+
+ }
